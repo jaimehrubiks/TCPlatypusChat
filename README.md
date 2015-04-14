@@ -3,5 +3,5 @@ Java terminal Chat client and multi-client-server using full TCP connections wit
 
 
 
-AUTHOR
+## Author
 JAIME HIDALGO GARCÍA
