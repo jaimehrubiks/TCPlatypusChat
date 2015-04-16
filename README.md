@@ -56,3 +56,4 @@ NetBeans 8.0.1 was used, and JDK 7 environment. However any java compiler should
   >You should have received a copy of the GNU General Public License
   >along with this program.  If not, see <http://www.gnu.org/licenses/>.
   
+Tags: TCPlatypusChat TCPlatypus Platypus Chat Jaime hidalgo garcía
